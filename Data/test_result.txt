@@ -16,4 +16,4 @@ Jonas Jonasson 31
 Erik Eriksson 31
 Gore Bord 55
 Jakob Kallander 65
-Fredrika Ulven 10test
+Fredrika Ulven 10
