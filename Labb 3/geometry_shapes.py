@@ -3,6 +3,10 @@ import matplotlib.patches as patches
 import matplotlib.pyplot as plt
 from math import pi, dist
 
+# Jag har fått mycket hjälp av Daniel, Joel och framförallt Andreas för denna labben.
+# Mycket av den koden jag har skrivit har varit inspirat av dem.
+# Jag har haft väldigt svårt för denna uppgiften, så snälla berätta för mig vad jag behöver träna mer på.
+
 class Shape: # super class of gemetrical shapes
     """Super class of gemetrical shapes: Circle & Rectangle"""
 
